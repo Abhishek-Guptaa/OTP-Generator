@@ -1,0 +1,21 @@
+div{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+ 
+    margin: 0px 400px;
+    height: 100px;
+}
+.btn{
+  background-color: blueviolet;
+  color: white;
+  font-size: 60px;
+    width: 600px;
+    font-weight: 600;
+    
+    height: 100px;
+}
+#showotp{
+    font-size: 60px;
+    text-align: center;
+}
